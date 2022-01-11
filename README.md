@@ -69,7 +69,7 @@ The boilerplate includes:
 
 _Install latest LTS [Node.js](https://nodejs.org/en/)_
 
-git@github.com:fishme/simple-next-boilerplate.git
+
 #### Clone the repo
    ```sh
    git clone https://github.com/fishme/simple-next-boilerplate.git
@@ -121,7 +121,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
@@ -140,11 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Material React UI](https://mui.com)
-* [Next.js](https://nextjs.org)
-* [React](https://reactjs.org)
+Nothing to add for the moment.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
