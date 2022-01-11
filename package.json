@@ -1,0 +1,44 @@
+{
+  "private": true,
+  "name": "simple-next-boilerplate",
+  "description": "Easy next.js starter for your next app.",
+  "keywords": [
+    "next.js",
+    "react",
+    "typescript",
+    "starter",
+    "boilerplate"
+  ],
+  "version": "1.0.0",
+  "author": "fishme",
+  "repository": {
+    "url": "https://github.com/fishme/simple-next-boilerplate"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "update-all": "npx npm-check-updates -u"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.5.5",
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@graphql-tools/schema": "^8.3.1",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "apollo-server-micro": "latest",
+    "graphql": "^15.7.2",
+    "next": "^12.0.3",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "alefragnani.project-manager",
+    "DavidAnson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "mike-co.import-sorter",
+    "mikestead.dotenv",
+    "mquandalle.graphql",
+    "wix.vscode-import-cost"
+  ]
+}
