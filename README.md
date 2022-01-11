@@ -53,7 +53,6 @@ The boilerplate includes:
 * [Apollo](http://apollographql.com)
 * [React.js](https://reactjs.org/)
 * [Typescript](http://typescriptlang.org)
-* [Sass Support](https://sass-lang.com)
 * [Material UI](https://mui.com)
 
 
