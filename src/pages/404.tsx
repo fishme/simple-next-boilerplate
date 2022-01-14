@@ -1,13 +1,14 @@
 import Head from 'next/head';
 import NextLink from 'next/link';
 
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { Box, Button, Container, Typography } from '@mui/material';
 
 const NotFound = () => (
   <>
     <Head>
       <title>
-        404 | My App
+        404 | My
       </title>
     </Head>
     <Box
@@ -30,23 +31,28 @@ const NotFound = () => (
           <Typography
             align="center"
             color="textPrimary"
-            variant="h1"
+            variant="h3"
           >
             404: The page you are looking for isn’t here
           </Typography>
-          <Typography
-            align="center"
-            color="textPrimary"
-            variant="subtitle2"
-          >
-            You either tried some shady route or you came here by mistake.
-            Whichever it is, try using the navigation
-          </Typography>
+          
+          <Box sx={{ textAlign: 'center' }}>
+            <img
+              alt="Under development"
+              src="/static/images/404_page.svg"
+              style={{
+                marginTop: 50,
+                display: 'inline-block',
+                maxWidth: '100%',
+                width: 360
+              }}
+            />
+          </Box>
           <NextLink
             href="/"
             passHref
           >
-              Go back to main page
+            Go back to main page
           </NextLink>
         </Box>
       </Container>
