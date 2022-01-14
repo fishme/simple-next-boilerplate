@@ -1,3 +1,39 @@
+[![MIT License][license-shield]][license-url]
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+
+  <h1 align="center">Simple Next.js Starter</h1>
+</div>
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#examples">Examples</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -6,7 +42,6 @@ Light and easy next.js starter for your apps.
 Client app with [React.js](https://reactjs.org/) with [Next.js](https://nextjs.org/) server with [GraphQL](https://graphql.org), have fun!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -48,6 +83,8 @@ _Install latest LTS [Node.js](https://nodejs.org/en/)_
 	npm run dev
    ```
    see page [http://localhost:3000](http://localhost:3000)
+
+   `Debugger: Build in VSCode Debugger configuration.`
    
 #### Build project 
    ```
